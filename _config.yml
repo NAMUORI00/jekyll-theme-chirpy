@@ -20,8 +20,7 @@ timezone: Asia/Seoul
 
 title: 나무오리(Namuori00) # the main title
 
-tagline: 안녕하세요, 나무오리 입니다.<br> 저는 무엇이든 해보는 개발자이며, <br> 적당히 깊고, 다양한걸 선호합니다. <br> 스파게티를 포크를 이용해 먹는사람 입니다. # it will display as the sub-title
-
+tagline: 안녕하세요, 나무오리 입니다.<br> 저는 무엇이든 해보는 개발자이며, <br>  보통깊고, 다양한걸 선호합니다. <br> 스파게티를 포크를 이용해 먹는사람 입니다. # it will display as the sub-title
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
